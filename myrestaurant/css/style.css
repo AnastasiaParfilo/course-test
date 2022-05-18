@@ -150,7 +150,7 @@ body{
   text-align: center;
   font-size: 1.6em;
   text-transform: uppercase;
-  background-color: #290308;
+  background-color: rgb(112, 78, 88);
   color: #fff;
   opacity: .87;
 }
@@ -207,7 +207,7 @@ body{
   margin-left: auto;
   margin-bottom: 20px;
   max-width: 250px;
-  background-color: #7e374385;
+  background-color: rgb(112, 78, 88);
 }
 .menu-item-photo div {
   position: absolute;
