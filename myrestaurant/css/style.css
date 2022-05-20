@@ -301,10 +301,11 @@ h3.menu-item-title {
     letter-spacing: .1em;
     text-transform: uppercase;
   }
-  .container .jumbotron {
+  .container .jumbotron,  #about{
     margin-top: 30px;
     padding: 0;
   }
+ 
 
   #menu-tile, #specials-tile, #map-tile{
     width: 360px;
