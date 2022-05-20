@@ -301,7 +301,7 @@ h3.menu-item-title {
     letter-spacing: .1em;
     text-transform: uppercase;
   }
-  .container .jumbotron,  #about{
+  .container .jumbotron, #about{
     margin-top: 30px;
     padding: 0;
   }
